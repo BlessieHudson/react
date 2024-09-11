@@ -1,0 +1,28 @@
+{
+    "products":[
+        {
+            "Image":"https://st.depositphotos.com/2515135/2791/v/450/depositphotos_27912009-stock-illustration-woman-beautiful-dresses-on-hanger.jpg",
+            "Name":"Frock",
+            "Price":"$10.90",
+            "Discount":"or 9 x$1.21"
+        },
+        {
+            "Image":"https://st.depositphotos.com/2515135/2791/v/450/depositphotos_27912009-stock-illustration-woman-beautiful-dresses-on-hanger.jpg",
+            "Name":"Shirt",
+            "Price":"$13.25",
+            "Discount":"or 3 x$4.42"
+        },
+        {
+            "Image":"https://st.depositphotos.com/2515135/2791/v/450/depositphotos_27912009-stock-illustration-woman-beautiful-dresses-on-hanger.jpg",
+            "Name":"T-Shirt",
+            "Price":"$11.9",
+            "Discount":"or 19 x$1.21"
+        },
+        {
+            "Image":"https://st.depositphotos.com/2515135/2791/v/450/depositphotos_27912009-stock-illustration-woman-beautiful-dresses-on-hanger.jpg",
+            "Name":"Saree",
+            "Price":"$12.90",
+            "Discount":"or 10 x$2.21"
+        }
+    ]
+}
